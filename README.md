@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Anas Hussain 👋
 
-<!--
-**anashussain08/anashussain08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with a strong background in **JavaScript** and **Python/Django** development. Passionate about building robust and scalable web applications, I also have a growing interest in **Generative AI** and **Large Language Models (LLMs)**. I enjoy exploring how AI can enhance software development and create innovative solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** JavaScript, Angular, React, HTML, CSS, TypeScript
+- **Backend:** Python, Django, Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **AI/ML:** LLMs, LangChain, LangGraph, OpenAI APIs, Hugging Face
+- **Tools:** Git, Docker, AWS, Heroku, Jenkins, VSCode
+
+## 🌱 Currently Learning
+- Deepening my knowledge of **Generative AI** models, specifically around **text generation** and **prompt engineering**.
+- Exploring **LLMs** (e.g., GPT, BERT) and how they can be applied to real-world software engineering problems.
+
+## 🌍 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/syedanashussain)
+- [Email](mailto:anas.hussain08@gmail.com)
+
+Feel free to reach out if you want to collaborate, chat about new tech, or just connect! 🚀
+
